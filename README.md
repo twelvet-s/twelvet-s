@@ -4,4 +4,4 @@
 
 1. [个人网站](https://www.twelvet.cn)
 2. [微服务](http://cloud.twelvet.cn)
-3. WeChat:2471835953
+3. QQ/WeChat:2471835953
