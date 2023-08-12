@@ -1,10 +1,10 @@
- 👋 大家好，这是一个小小的技术屋。  
- 或许、我们没有改变世界的能力，但依旧能给予世界带来点点星光  
- 点点星光亦可燎原，只要我们的开源项目能给大家带来一点帮助，那它意义也将非凡
+ 👋 Hello everyone, this is a small technical place.
+ Perhaps, we may not have the ability to change the world, but we can still bring a little bit of starlight to the world.
+ A little bit of starlight can also ignite a prairie fire. As long as our open-source projects can bring a little help to everyone, their significance will be extraordinary.
  
 
 ## Contact me 📱
 
-1. [个人网站](https://twelvet.cn)
-2. [微服务](https://cloud.twelvet.cn)
+1. [Website](https://twelvet.cn)
+2. [Microservices](https://cloud.twelvet.cn)
 3. QQ/WeChat：2471835953
