@@ -10,3 +10,6 @@
 1. [Website](https://twelvet.cn)
 2. [Microservices](https://cloud.twelvet.cn)
 3. QQ/WeChat：2471835953
+
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=twelvet-s&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=cn" />
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twelvet-s&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=cn" />
